@@ -1,0 +1,7 @@
+langchain_openai
+langchain_core
+langchain
+langchain_community
+dotenv
+pydantic
+upstash_redis
